@@ -1,0 +1,5 @@
+UseRef:
+ya functional component ka ak hook ha iska through hum apni dom ko direct manuplate kar sakta ha.
+
+Socket:
+socket.emit - This method is responsible for sending messages. socket.on - This method is responsible for listening for incoming messages.
